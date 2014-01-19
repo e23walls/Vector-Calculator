@@ -1,0 +1,9 @@
+C:\Users\emilywalls\AppData\Local\Temporary Projects\Vectors\bin\Release\Vectors.exe
+C:\Users\emilywalls\AppData\Local\Temporary Projects\Vectors\bin\Release\Vectors.pdb
+C:\Users\emilywalls\AppData\Local\Temporary Projects\Vectors\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\emilywalls\AppData\Local\Temporary Projects\Vectors\obj\x86\Release\Vectors.Form1.resources
+C:\Users\emilywalls\AppData\Local\Temporary Projects\Vectors\obj\x86\Release\Vectors.Properties.Resources.resources
+C:\Users\emilywalls\AppData\Local\Temporary Projects\Vectors\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\emilywalls\AppData\Local\Temporary Projects\Vectors\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\emilywalls\AppData\Local\Temporary Projects\Vectors\obj\x86\Release\Vectors.exe
+C:\Users\emilywalls\AppData\Local\Temporary Projects\Vectors\obj\x86\Release\Vectors.pdb

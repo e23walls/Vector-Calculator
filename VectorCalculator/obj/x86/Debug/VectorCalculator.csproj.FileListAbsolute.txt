@@ -1,0 +1,9 @@
+C:\Users\emilywalls\Desktop\VectorCalculator\VectorCalculator\bin\Debug\VectorCalculator.exe
+C:\Users\emilywalls\Desktop\VectorCalculator\VectorCalculator\bin\Debug\VectorCalculator.pdb
+C:\Users\emilywalls\Desktop\VectorCalculator\VectorCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\emilywalls\Desktop\VectorCalculator\VectorCalculator\obj\x86\Debug\Vectors.Form1.resources
+C:\Users\emilywalls\Desktop\VectorCalculator\VectorCalculator\obj\x86\Debug\Vectors.Properties.Resources.resources
+C:\Users\emilywalls\Desktop\VectorCalculator\VectorCalculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\emilywalls\Desktop\VectorCalculator\VectorCalculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\emilywalls\Desktop\VectorCalculator\VectorCalculator\obj\x86\Debug\VectorCalculator.exe
+C:\Users\emilywalls\Desktop\VectorCalculator\VectorCalculator\obj\x86\Debug\VectorCalculator.pdb
